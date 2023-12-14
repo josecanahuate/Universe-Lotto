@@ -1,0 +1,16 @@
+PAISES QUE MAS BUSCAN LOTERIAS
+
+EEUU
+SRI LANKA
+CAMBOYA
+
+
++++++++++++++++++++++++++++AGREGAR OPCION DE IDIOMAS EN EL NAVBAR++++++++++++++++++++++++++++++++++++++++++++++
+INGLES
+ESPAÑOL
+RUSO
+PORTUGUES
+FRANCES
+ALEMAN
+
+

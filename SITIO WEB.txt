@@ -1,0 +1,17 @@
+/* 
+PARTES QUE FALTAN:
+
+*POLITICA DE PRIVACIDAD --> despues de tener URL .COM
+*TERMINOS Y CONDICIONES --> despues de tener URL .COM
+
+**********************************************************PUBLICIDAD***
++AGREGAR PUBLICIDAD ESQUINA
+++AGREGAR PUBLICIDAD EN EL FOOTER, EL ELEMENTO QUE SE MUESTRA QUE SUBE DESDE ABAJO
+
+**********************************************************ANALYTICS***
+************************************************INSERTAR GOOGLE ANALYTICS Y GOOGLE ADS
+
+
+**INCLUIR ESPACIO EN EL HOME PARA COLOCAR ANUNCIOS
+REDUCIR TAMAÑO DE LOS CARDS
+*/

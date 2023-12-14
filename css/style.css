@@ -1,0 +1,131 @@
+/* Custom styles */
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffff;
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+
+.footer {
+  margin-top: auto;
+  background-color:  #77b3cf6a !important;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.center-widget {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.jumbotron {
+  margin-top: 2rem !important;
+  background-color: #77b3cf6a !important;
+}
+
+/*     .cgWidget_module{
+  box-shadow: 1rem 1rem 2rem rgba(10,10,10,.2);
+} */
+
+.navbar {
+  background-color: #343a40!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+color: #ffffff;
+}
+
+.nav-item .dropdown-menu .dropdown-item:hover {
+  color: #ff2143;
+  }
+  
+  /* ELEMENTOS DEL HOME */
+.text-hover-green:hover {
+  color: green !important;
+  text-decoration: none !important; /* Quítale el subrayado al hacer hover */
+}
+
+  .card-text {
+  color: black !important;
+}
+
+  .homecard{
+  padding: 20px; 
+  box-shadow: 1rem 1rem 2rem rgba(10,10,10,.2);
+}
+
+
+/*RESPONSIVE*/
+
+/* Estilos base que aplicarán a todos los dispositivos */
+
+/* Pantallas pequeñas como teléfonos móviles */
+@media (min-width: 320px) {
+  /* Agrega estilos específicos para dispositivos de 320px de ancho o más */
+}
+
+/* Pantallas de teléfonos móviles en posición vertical y horizontal */
+@media (min-width: 360px) {
+  /* Agrega estilos específicos para dispositivos de 360px de ancho o más */
+}
+
+/* Pantallas de teléfonos móviles en posición vertical y horizontal */
+@media (min-width: 375px) {
+  /* Agrega estilos específicos para dispositivos de 375px de ancho o más */
+}
+
+/* Pantallas de teléfonos móviles en posición vertical y horizontal */
+@media (min-width: 390px) {
+  /* Agrega estilos específicos para dispositivos de 390px de ancho o más */
+}
+
+/* Tablets pequeñas y pantallas más grandes */
+@media (min-width: 576px) {
+  /* Agrega estilos específicos para dispositivos de 576px de ancho o más */
+}
+
+/* Tablets en posición horizontal y pantallas más grandes */
+@media (min-width: 768px) {
+  /* Agrega estilos específicos para dispositivos de 768px de ancho o más */
+}
+
+/* Pantallas de escritorio y laptops */
+@media (min-width: 992px) {
+  /* Agrega estilos específicos para dispositivos de 992px de ancho o más */
+}
+
+/* Pantallas de escritorio y laptops más grandes */
+@media (min-width: 1200px) {
+  /* Agrega estilos específicos para dispositivos de 1200px de ancho o más */
+}
+
+/* Consultas de medios para tamaños de pantalla más pequeños */
+@media (max-width: 575px) {
+  /* Agrega estilos específicos para dispositivos de 575px de ancho o menos */
+}
+
+@media (max-width: 767px) {
+  /* Agrega estilos específicos para dispositivos de 767px de ancho o menos */
+}
+
+@media (max-width: 991px) {
+  /* Agrega estilos específicos para dispositivos de 991px de ancho o menos */
+}
+
+@media (max-width: 1199px) {
+  /* Agrega estilos específicos para dispositivos de 1199px de ancho o menos */
+}
+
+/* Consultas de medios para tamaños de pantalla específicos */
+@media (min-width: 412px) and (max-width: 684px) {
+  /* Agrega estilos específicos para dispositivos con ancho entre 412px y 684px */
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  /* Agrega estilos específicos para dispositivos con ancho entre 768px y 1024px */
+}
